@@ -128,6 +128,11 @@ category:
 - [网站链接](https://zfhblog.top)
 - [源码地址](https://github.com/zhangfanhang/zfhblog)
 
+### Bamboo blog
+- [网站链接](https://bamboo-qiqing.github.io)
+- [源码地址](https://github.com/bamboo-qiqing/bamboo-qiqing.github.io)
+
+
 ## 更多
 
 - 随时随地通过 PR 添加你的博客或文档至此。
@@ -147,3 +152,4 @@ category:
 [hutao]: https://hut.ao/
 [wings-boot]: https://wings.fessional.pro/
 [dynamic-tp]: https://dynamictp.cn/
+[Restful Cloud]: https://bamboo-qiqing.github.io/projects/restfulCloud/
